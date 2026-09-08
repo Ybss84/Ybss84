@@ -12,7 +12,7 @@ Building AI solutions with Python, AI Agents, APIs and Automation.
 
 > From Uber Driver → AI Automation Developer.
 
-I'm documenting my transition while building real-world AI software.
+Building real-world AI solutions while documenting the journey publicly.
 
 Current focus:
 
@@ -46,10 +46,6 @@ Everything I'm learning is applied inside real projects.
 These cards update automatically as I progress through the Missão IA Global roadmap.
 
 > Building consistency, one commit at a time.
-
-![Yuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ybss84&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ybss84&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ybss84&theme=tokyonight&hide_border=true)
 
